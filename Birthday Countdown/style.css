@@ -1,0 +1,24 @@
+label {
+    display: block;
+}
+
+span {
+    display: block;
+}
+.day-error-message {
+    color: red;
+    margin: 10px 0;
+    visibility: hidden;
+}
+
+.month-error-message {
+    color: red;
+    margin: 10px 0;
+    visibility: hidden;
+}
+
+.year-error-message {
+    color: red;
+    margin: 10px 0;
+    visibility: hidden;
+}
